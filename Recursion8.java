@@ -1,6 +1,6 @@
 public class Recursion8 {
     public static void main(String[] args) {
-        String str = "abcd";
+        String str = "abc";
         printPerputation(str, "");
     }
     public static void printPerputation(String str, String newStr){
